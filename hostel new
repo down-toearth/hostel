@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hostel Prefrences and Limitations</title>
+<style>
+   
+    body {
+        font-family:Arial, Helvetica, sans-serif ;
+        margin: 0;
+        padding: 0;
+        background-color: #ececec;
+    }
+    /*h1 {
+        font-family: 'Courier New', Courier, monospace
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+    }
+    h2{
+        font-family: 'Courier New', Courier, monospace
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+    }*/
+    header {
+        background-color: #fff;
+        color: #D17B88;
+        padding: 10px;
+        text-align: center;
+    }
+    .container {
+        max-width: 1200px;
+        margin: 20px auto;
+        padding: 0 20px;
+    }
+    .content {
+        background-color: #fff;
+        color: #626262;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+   
+    .containerm {
+  height: 600px;
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
+
+/*.container img {
+  width: 100%;
+  height: 500px;
+}*/
+.hero-text {
+  width: 80%;
+}
+
+.hero-text h1 {
+    font-size: 36px;
+  margin-bottom: 12px;
+  color: #D17B88;
+}
+
+    .containl {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+    imagel {
+    /*max-width: 25%;
+    max-height:15%;*/
+    float: left;
+  }
+  
+  .textl {
+    
+    float: left;}
+
+    .containr {
+       
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+    imager {
+    max-width: 25%;
+    max-height:15%;
+    float: right;
+  }
+  
+  .textr {
+    float: right;}
+
+    footer {
+        background-color: #777C82;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        /*
+            position: fixed
+            */
+        bottom: 0;
+        width: 100%;
+    }
+
+    .column {
+  float: left;
+  width: 30%;
+  padding: 18px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column1 {
+  float: left;
+  width: 40%;
+  padding: 20px;
+}
+
+/* Clearfix (clear floats) */
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+</style>
+</head>
+<body>
+    <header>
+        <img src="IMG_4903.PNG" alt="">
+        <!--<div class="containerm">
+           
+                <img src="IMG_4900.PNG" alt="" width="40%">
+        
+            <div class="hero-text">
+              <h1>Exploring the factors affecting <br> choices among female students &#127968</h1>
+             
+        <!--<h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;" >Exploring the factors affecting residential choices among female students &#127968</h1>-->
+    </header>
+    <div class="container">
+        <div class="content">
+            <h2 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #D17B88;">Introduction &#127804</h2>
+            <p>When asked about their accommodation status people usually start complaining regardless of where they live. When the same question was asked to the female residents of the hostel,  participants exhibited a <B>consistent pattern of dissatisfaction</B>, particularly regarding hostel conditions.</p>
+
+                <p>This led us to two main points:</p>
+                <ol><li>There are some potential issues within hostel environments, indicating areas for improvement.</li>
+                    <li>Certain external factors appeared to hinder residents from seeking alternative accommodation options</li></ol>
+                <p>Our project aims to <b>comprehensively study residential preferences and challenges among students near the DTU campus</B>. With a focus on identifying hostel issues, understanding external influences on accommodation choices, and proposing improvements to enhance residential experiences we started our project by surveying the residents and exploring various living options around the DTU campus.</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #D17B88;">Problem Statement &#128269</h2>
+            <p><i><b>Finding out the potential issues in the girls’ hostel and the factors contributing to the participant’s continued preference for girls' hostels over PG and other accommodations</b></i></p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #D17B88;">Research Method &#128466</h2>
+            <p>We mainly used <b>two methods</b> for research and data collection. To start off we surveyed a <b>sample size of 23</b> students consisting of hostel and outside campus female residents. The survey consisted of questions focused on their preferences and considerations when looking at various accommodations.
+                We further conducted a <b>focus group with 6 people</b> to have an open discussion on the problems faced by the residents and what they want to change about their current situation.</p>
+                <!--<img src="WhatsApp Image 2024-04-25 at 15.25.26.jpeg" alt="Flowers in Chania" style="width:305px;height:230px;">-->
+                <div class="row">
+                    <div class="column">
+                      <img src="image 7.jpg" alt="Snow" style="width:100%">
+                    </div>
+                    <div class="column">
+                      <img src="image 9.jpg" alt="Forest" style="width:100%">
+                    </div>
+                    <div class="column">
+                        <img src="image 10.jpg" alt="Forest" style="width:100%">
+                      </div>
+                </div>
+                <p>Some questions that we asked were: </p>
+                  
+                
+                    <div class="row">
+                        <div class="column1">
+                                <img src="5.png" alt="Snow" style="width:80%">
+                              </div>
+                              <div class="column1" >
+                                <p><ul><li>Which year are you in?</li>
+                                    <li>On a scale of 1 to 5, how satisfied are you with your current living arrangement?</li>
+                                   <li>What facilities do you prioritise when selecting your accommodation? (Pick Top 3 options)</li></ul></p>
+                        </div>
+                     </div> 
+                     <div class="row1">
+                        <div class="column1">
+                          <img src="2.png" alt="Snow" style="width:80%">
+                        </div>
+                        <div class="column1" >
+                            <p><ul><li>What will you change about your current living situation?</li>
+                                <li>On a scale of 1 to 5, how much did your parent's opinions affect where you currently reside?</li>
+                               <li>Importance of freedom?</li></ul></p>
+                        </div>
+                     </div> 
+                    <div class="row">
+                        <div class="column">
+                          <img src="IMG_4886.PNG" alt="Snow" style="width:100%">
+                        </div>
+                        <div class="column">
+                          <img src="3.png" alt="Forest" style="width:100%">
+                        </div>
+                        <div class="column">
+                            <img src="4.png" alt="Forest" style="width:100%">
+                          </div>
+                    </div> 
+                
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #D17B88;">Analysing the data &#128173</h2>
+            <p>We analyzed the data that we collected through our form and focus group thoroughly and using it we made charts and plots <b>using matplotlib</b> to get a better visual interpretation of the choices of participant's accomodations.</p>
+            <img src="final dp print 1.png" alt="Snow" style="width:100%">
+            <h3 style="color: #D17B88;">Plot and Charts</h3>
+            <p> </p>
+            <p style="font: size 18px; ; font-weight: 600;"><i><u>Distribution of participants according to their year of college</u></i></p>
+             <div class="row1">
+                        <div class="column1">
+                          <img src="c1.png" alt="Snow" style="width:100%">
+                        </div>
+                        <div class="column1">
+                          <img src="d1.png" alt="Forest" style="width:20%">
+                        </div>
+             </div> 
+             <p style="font: size 18px; ; font-weight: 600;"><i><u>Importance of respective facilities for participants when choosing a living arrangement</u></i></p>
+             <div class="row1">
+                        <div class="column1">
+                          <img src="c2.png" alt="Snow" style="width:110%">
+                        </div>
+                        <div class="column1">
+                          <img src="d2.png" alt="Forest" style="width:100%">
+                        </div>
+             </div> 
+             <p style="font: size 18px; ; font-weight: 600;"><i><u>Satisfaction level of participants with their current living arrangements</u></i></p>
+             <div class="row1">
+                <div class="column1">
+                  <img src="c3.png" alt="Snow" style="width:100%">
+                </div>
+                <div class="column1">
+                  <img src="d3.png" alt="Forest" style="width:65%">
+                </div>
+             </div> 
+
+             <p style="font: size 18px; ; font-weight: 600;"><i><u>Effects of parent’s opinion while selecting the current residence of the participants</u></i></p>
+             <img src="Frame 18.png" alt="Snow" style="width:100%">
+
+             <p style="font: size 18px; ; font-weight: 600;"><i><u>Participants opinion on whether living in a Flat/pg gives more freedom and choice as compared to hostel</u></i></p>
+             <div class="row1">
+                <div class="column1">
+                  <img src="c5.png" alt="Snow" style="width:90%">
+                </div>
+                <div class="column1">
+                  <img src="d5.png" alt="Forest" style="width:75%">
+                </div>
+             </div> 
+                
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="content">
+            <h2 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #D17B88;">Conclusion &#128171</h2>
+            <p>Based on our survey findings, it is evident that <b>security, hygiene, and food quality are paramount considerations</b> for female residents when seeking accommodation. Furthermore, respondents expressed a <b>stronger sense of freedom when residing off-campus</b> compared to on-campus living. The influence of <b>parental opinions</b> was observed to have a <b>greater impact on hostel choices</b> compared to those opting for flat or PG accommodations. Despite these observations, the highest satisfaction level reported for current accommodations remained moderate, with a rating of 3. These insights emphasize the importance of addressing key priorities and improving residential offerings to better align with residents' expectations and enhance overall satisfaction levels.</p>
+
+        </div>
+    </div>
+    <div class="container">
+        <div class="content">
+            <h2 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: #D17B88;">BTS and Failed Attempts &#128553&#128557</h2>
+            <div class="row">
+                <div class="column">
+                  <img src="i.jpeg" alt="Snow" style="width:100%">
+                </div>
+                <div class="column">
+                  <img src="j.jpeg" alt="Forest" style="width:100%">
+                </div>
+                <div class="column">
+                    <img src="k.jpeg" alt="Forest" style="width:100%">
+                  </div>
+            </div> 
+
+            <div class="row">
+                <div class="column">
+                  <img src="l.jpeg" alt="Snow" style="width:100%">
+                </div>
+                <div class="column">
+                  <img src="m.jpeg" alt="Forest" style="width:100%">
+                </div>
+                <div class="column">
+                    <img src="n.jpeg" alt="Forest" style="width:100%">
+                  </div>
+            </div> 
+
+        </div>
+    </div>
+    <footer>
+        <p>&copy; Made with love by Akshaya, Avni, Devanshi &#128150&#9996</p>
+    </footer>
+</body>
+</html>
+
